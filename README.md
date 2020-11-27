@@ -1,3 +1,3 @@
 # ThreeJsCode
- ThreeJs Hw code
+ ThreeJs Hw code: 
 Editted the 3_lights.HTML file 
