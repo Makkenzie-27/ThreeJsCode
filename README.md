@@ -1,5 +1,10 @@
 # ThreeJsCode
+Makkenzie Zepeda:
+
+
  ThreeJs Hw code: 
+ 
+ 
 Editted the 3_lights.HTML file 
 
 
